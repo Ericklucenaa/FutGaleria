@@ -1,37 +1,48 @@
-# FUT Galeria
+# FUT Galeria — totalmente gratuito
 
-**Extensão de navegador para acompanhar galerias no EA FC Ultimate Team.** Interface em Português, English e Español, com opções FREE e PRO.
+**Extensão independente para acompanhar galerias do EA FC Ultimate Team.** Disponível em português, inglês e espanhol.
 
-> **Beta disponível para testes:** [baixar v1.3.1-beta](https://github.com/Ericklucenaa/FutGaleria/releases/tag/v1.3.1-beta). A comercialização do PRO ainda não começou; não há checkout operacional e a automação pode violar as regras da EA.
+> **Nova versão v1.4.0:** código gratuito concluído e em testes. O ZIP ainda precisa ser anexado a uma nova Release. **A versão v1.3.1-beta atualmente disponível é antiga e ainda contém referências a FREE/PRO.** Não compre licenças nem pague para desbloquear funções.
 
-![Prévia da tela de planos](assets/interface.png)
+![Apresentação informativa da edição gratuita](assets/gratis-v1.4.0.svg)
 
-## Planos
+## Todos os recursos gratuitos
 
-| Recurso | FREE | PRO |
-|---|---|---|
-| Galerias disponíveis | Até **5** | Ilimitadas |
-| Leitura e comparação das galerias | Sim | Sim |
-| Compras automáticas no time atual | Previstas na versão 1.3.1, sujeitas a riscos | Previstas na versão 1.3.1, sujeitas a riscos |
-| Troca automática entre times | Não | Sim |
-| Listagem e limpeza automáticas | Não | Sim |
-| Relatórios avançados e CSV | Não | Sim |
-| Dispositivos na licença | — | Até 3 |
+| Recurso | Acesso |
+|---|---|
+| Galerias | Ilimitadas |
+| Compra automática no time atual | Disponível |
+| Troca automática entre times | Disponível |
+| Listagem e limpeza de transferências | Disponíveis |
+| Estatísticas de lucro e CSV | Disponíveis |
+| Planejamento, temas e backup | Disponíveis |
+| Alertas de preço | Até 200 (limite técnico) |
+| Cadastro, assinatura e chave de licença | **Não são necessários** |
 
-O plano PRO depende da validação da chave no servidor. **Não compre** por links não oficiais; a página de checkout só será anunciada depois de configurada e validada.
+O modo teste inicia ativado em cada sessão; ative operações reais somente após compreender os riscos.
 
 ## Download e instalação
 
-Acesse **[FUT Galeria v1.3.1-beta](https://github.com/Ericklucenaa/FutGaleria/releases/tag/v1.3.1-beta)** e baixe `FUT_Galeria_1.3.1_Chrome_DOWNLOAD.zip` em **Assets**, não o `Source code (zip)` automático do GitHub. **É uma versão de testes, não uma versão comercial validada.**
+A versão **v1.4.0-beta** será disponibilizada em [Releases](https://github.com/Ericklucenaa/FutGaleria/releases) após o envio do pacote atualizado. Baixe sempre o ZIP da seção **Assets** da versão correta, nunca o ZIP automático de código-fonte.
 
-Veja [instalação passo a passo](docs/INSTALACAO.md) e [perguntas frequentes](docs/FAQ.md).
+Após baixar: extraia o arquivo, abra `chrome://extensions`, habilite Modo do desenvolvedor, escolha **Carregar sem compactação** e selecione `FutGaleria_Chrome`, que contém `manifest.json`.
+
+## Apoie o projeto
+
+❤️ O FUT Galeria é **gratuito para todos**. Doações são **totalmente voluntárias** e não concedem acesso privilegiado ou recursos exclusivos.
+
+**O link de doação ainda está sendo configurado.** Até existir um destino verificado, não envie dinheiro para terceiros que se apresentem como desenvolvedores. O botão de apoio da extensão direciona a esta seção.
 
 ## Aviso importante
 
-A EA proíbe bots e compradores automáticos no Ultimate Team. Usar recursos de automação pode violar os termos da EA e resultar em bloqueios ou restrições. Hospedar arquivos no GitHub **não representa aprovação da EA**. Produto independente e não afiliado à Electronic Arts.
+A EA proíbe bots e compradores automáticos não autorizados no Ultimate Team. O uso pode levar a restrições ou bloqueios de contas, mesmo que a ferramenta seja gratuita. Este projeto é independente e **não é afiliado, patrocinado ou aprovado pela Electronic Arts**.
 
-## Suporte e segurança
+## Suporte e documentação
 
-Para relatar um bug, use **Issues** e remova informações pessoais, chaves de licença e credenciais das capturas de tela. Para questões de segurança, consulte [Segurança](docs/SEGURANCA.md). Informações de privacidade e suporte comercial precisam ser publicadas no site oficial antes do lançamento.
+- [Relatar problemas](https://github.com/Ericklucenaa/FutGaleria/issues) — nunca envie senhas, cookies ou informações privadas
+- [Instalação](docs/INSTALACAO.md) e [perguntas frequentes](docs/FAQ.md)
 
-**Código-fonte de desenvolvimento privado.** Este repositório público contém documentação e informações de distribuição. O JavaScript incluído em futuros pacotes da extensão é tecnicamente inspecionável no navegador.
+O repositório de desenvolvimento permanece privado. O código da extensão distribuída é inspecionável pelos usuários. O antigo sistema de licenças foi aposentado na edição gratuita.
+
+---
+*FUT Galeria — versão gratuita em preparação para distribuição.*
