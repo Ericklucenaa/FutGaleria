@@ -2,7 +2,7 @@
 
 **Extensão de navegador para acompanhar galerias no EA FC Ultimate Team.** Interface em Português, English e Español, com opções FREE e PRO.
 
-> **Estado de distribuição:** lançamento comercial ainda não concluído. O instalador será disponibilizado na seção **Releases** quando o servidor de licenças, os pagamentos, as informações legais e os testes forem finalizados. Não há link de compra operacional neste repositório neste momento.
+> **Beta disponível para testes:** [baixar v1.3.1-beta](https://github.com/Ericklucenaa/FutGaleria/releases/tag/v1.3.1-beta). A comercialização do PRO ainda não começou; não há checkout operacional e a automação pode violar as regras da EA.
 
 ![Prévia da tela de planos](assets/interface.png)
 
@@ -22,7 +22,7 @@ O plano PRO depende da validação da chave no servidor. **Não compre** por lin
 
 ## Download e instalação
 
-Assim que houver uma versão de distribuição, acesse **Releases** (na página deste repositório) e baixe o arquivo `FUT-Galeria-vX.Y.Z-Chrome.zip` na seção **Assets**, não o `Source code (zip)` automático do GitHub.
+Acesse **[FUT Galeria v1.3.1-beta](https://github.com/Ericklucenaa/FutGaleria/releases/tag/v1.3.1-beta)** e baixe `FUT_Galeria_1.3.1_Chrome_DOWNLOAD.zip` em **Assets**, não o `Source code (zip)` automático do GitHub. **É uma versão de testes, não uma versão comercial validada.**
 
 Veja [instalação passo a passo](docs/INSTALACAO.md) e [perguntas frequentes](docs/FAQ.md).
 
