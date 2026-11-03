@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="320" viewBox="0 0 940 320">
+<rect width="940" height="320" rx="18" fill="#061523"/>
+<text x="34" y="48" fill="white" font-family="Arial" font-size="30" font-weight="bold">FUT Galeria v1.3.1 — Escolha seu plano</text>
+<rect x="30" y="80" width="424" height="195" rx="14" fill="#10273b" stroke="#35566b"/>
+<rect x="482" y="80" width="424" height="195" rx="14" fill="#06333b" stroke="#02d9c4" stroke-width="2"/>
+<text x="54" y="122" fill="#ffffff" font-family="Arial" font-size="26" font-weight="bold">FREE</text>
+<text x="54" y="161" fill="#10ecca" font-family="Arial" font-size="23">Até 5 galerias</text>
+<text x="54" y="195" fill="#e2f1f6" font-family="Arial" font-size="18">Compras no time atual</text>
+<text x="54" y="231" fill="#e2f1f6" font-family="Arial" font-size="18">Recursos básicos</text>
+<text x="506" y="122" fill="#ffffff" font-family="Arial" font-size="26" font-weight="bold">PRO</text>
+<text x="506" y="161" fill="#10ecca" font-family="Arial" font-size="23">Galerias ilimitadas</text>
+<text x="506" y="195" fill="#e2f1f6" font-family="Arial" font-size="18">Troca automática entre times</text>
+<text x="506" y="231" fill="#e2f1f6" font-family="Arial" font-size="18">Relatórios, alertas e backup</text>
+</svg>
