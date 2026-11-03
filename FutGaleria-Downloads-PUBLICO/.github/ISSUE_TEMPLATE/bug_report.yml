@@ -1,0 +1,28 @@
+name: Relatar problema (sem dados pessoais)
+description: Erros de interface ou instalação. Não compartilhe credenciais nem licenças.
+title: "[Bug] "
+labels: []
+body:
+  - type: markdown
+    attributes:
+      value: "Nunca envie senha, cookies, dados pessoais ou chave de licença."
+  - type: input
+    id: version
+    attributes:
+      label: Versão da extensão
+      placeholder: "1.3.1"
+    validations:
+      required: true
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Navegador
+      options: [Chrome, Chromium, Edge, Outro]
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: O que ocorreu e como reproduzir?
+    validations:
+      required: true

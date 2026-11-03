@@ -1,0 +1,16 @@
+# Impede inclusão acidental de código ou artefatos no repositório público
+extension/
+server/
+site/
+src/
+dist/
+publish_assets/
+*.zip
+*.rar
+*.crx
+*.env
+.env
+*.db
+*.pem
+*.key
+node_modules/
